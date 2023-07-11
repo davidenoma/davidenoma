@@ -1,7 +1,8 @@
-- 👀 I’m interested in Machine & Deep Learning, Bioinformatics & Data Science. This is applied to Genetics, Genomics and Precision Medicine.
+- 👀 I research on Machine & Deep Learning, Bioinformatics & Data Science. This is applied to Genetics, Genomics and Precision Medicine.
 - 👨🏽‍💻 I write Python, R, Java, PHP, SQL, HTML and associated frameworks and libraries
-- 🌱 I’m currently learning Representation learning for Deep neural architectures and Data engineering pipelines on AWS cloud platforms.
-- 💞️ I’m looking to collaborate on any machine learning, data science and bionformatics projects.
+- 🚀 I build web, mobile, bioinformatics and data platforms and products.
+- 🌱 I’m currently learning Representation learning and Data engineering pipelines cloud platforms.
+- 💞️ I want to collaborate and consult on machine learning, data science and bioinformatics projects.
 - 📫 How to reach me davidenoma@gmail.com
 
 <!---
