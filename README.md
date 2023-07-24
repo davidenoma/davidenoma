@@ -1,4 +1,4 @@
-- 👀 I research Machine Learning, Artificial intelligence,  Statistical Genetics and Bioinformatics. This is applied to Genetics & Precision Medicine.
+- 👀 I research Machine Learning, Artificial intelligence,  Statistical Genetics and Bioinformatics. This is applied to Genetics & Precision Medicine of Neuropsychiatric disorders, Cancers and Polygenic risk prediction.
 - 👨🏽‍💻 I write Python, R, Java, PHP, SQL, HTML and associated frameworks and libraries
 - 🚀 I build web, mobile, bioinformatics & data platforms and products.
 - 🌱 I’m currently learning Representation learning and Data engineering pipelines cloud platforms.
